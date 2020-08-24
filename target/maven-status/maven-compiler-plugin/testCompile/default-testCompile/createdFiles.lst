@@ -1,0 +1,8 @@
+PageObjectPackage\LoginPage.class
+org\example\AppTest.class
+PageObjectPackage\InsurancePage.class
+CommonPackage\DriverFactory.class
+StepdefinationPackage\SepDefAcc.class
+CommonPackage\Hooks.class
+Runner.class
+StepdefinationPackage\StepDefInsurance.class

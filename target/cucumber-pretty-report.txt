@@ -1,0 +1,6 @@
+Feature: Instant insurance quote
+
+  Scenario:                                           [90m# C:/Users/bhupe/AIGLIFE.co.uk/src/test/Resources/insurance.feature:3[0m
+    [32mGiven [0m[32mUser is on homepage[0m                         [90m# SepDefAcc.user_is_on_homepage()[0m
+    [32mWhen [0m[32mUser navigate to personal insurance page[0m     [90m# StepDefInsurance.user_navigate_to_personal_insurance_page()[0m
+    [32mThen [0m[32mU should find and select the right insurance[0m [90m# StepDefInsurance.u_should_find_and_select_the_right_insurance()[0m

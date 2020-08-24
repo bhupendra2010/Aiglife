@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="11.577762">
+<testcase classname="Instant insurance quote" name="" time="11.577762">
+<system-out><![CDATA[Given User is on homepage...................................................passed
+When User navigate to personal insurance page...............................passed
+Then U should find and select the right insurance...........................passed
+]]></system-out>
+</testcase>
+</testsuite>
