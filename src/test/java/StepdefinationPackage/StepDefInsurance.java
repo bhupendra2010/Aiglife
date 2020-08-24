@@ -13,6 +13,6 @@ InsurancePage insurancePage=new InsurancePage();
 
     @Then("^U should find and select the right insurance$")
     public void u_should_find_and_select_the_right_insurance() throws Throwable {
-
+    insurancePage.selectproduct();
     }
 }
